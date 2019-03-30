@@ -6,127 +6,127 @@
     <message>
         <location filename="conditional.py" line="26"/>
         <source>starts with</source>
-        <translation type="unfinished"></translation>
+        <translation>以...开始</translation>
     </message>
     <message>
         <location filename="conditional.py" line="27"/>
         <source>ends with</source>
-        <translation type="unfinished"></translation>
+        <translation>以...结尾</translation>
     </message>
     <message>
         <location filename="conditional.py" line="27"/>
         <source>contains</source>
-        <translation type="unfinished"></translation>
+        <translation>包含</translation>
     </message>
     <message>
         <location filename="conditional.py" line="27"/>
         <source>True</source>
-        <translation type="unfinished"></translation>
+        <translation>真</translation>
     </message>
     <message>
         <location filename="conditional.py" line="28"/>
         <source>False</source>
-        <translation type="unfinished"></translation>
+        <translation>假</translation>
     </message>
     <message>
         <location filename="conditional.py" line="32"/>
         <source>and</source>
-        <translation type="unfinished"></translation>
+        <translation>和</translation>
     </message>
     <message>
         <location filename="conditional.py" line="33"/>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>或</translation>
     </message>
     <message>
         <location filename="conditional.py" line="34"/>
         <source>[All Types]</source>
-        <translation type="unfinished"></translation>
+        <translation>[所有类型]</translation>
     </message>
     <message>
         <location filename="conditional.py" line="238"/>
         <source>Node Type</source>
-        <translation type="unfinished"></translation>
+        <translation>节点类型</translation>
     </message>
     <message>
         <location filename="conditional.py" line="250"/>
         <source>&amp;Add New Rule</source>
-        <translation type="unfinished"></translation>
+        <translation>添加新规则(&amp;A)</translation>
     </message>
     <message>
         <location filename="conditional.py" line="253"/>
         <source>&amp;Remove Rule</source>
-        <translation type="unfinished"></translation>
+        <translation>删除规则(&amp;R)</translation>
     </message>
     <message>
         <location filename="conditional.py" line="259"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <location filename="conditional.py" line="262"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <location filename="conditional.py" line="300"/>
         <source>Find &amp;Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>查找上一个(&amp;P)</translation>
     </message>
     <message>
         <location filename="conditional.py" line="303"/>
         <source>Find &amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>查找下一个(&amp;N)</translation>
     </message>
     <message>
         <location filename="conditional.py" line="308"/>
         <source>&amp;Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤(&amp;F)</translation>
     </message>
     <message>
         <location filename="conditional.py" line="311"/>
         <source>&amp;End Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>结束过滤(&amp;E)</translation>
     </message>
     <message>
         <location filename="conditional.py" line="316"/>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
     <message>
         <location filename="conditional.py" line="559"/>
         <source>No conditional matches were found</source>
-        <translation type="unfinished"></translation>
+        <translation>没有找到条件匹配</translation>
     </message>
     <message>
         <location filename="conditional.py" line="609"/>
         <source>Rule {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>规则{0}</translation>
     </message>
     <message>
         <location filename="conditional.py" line="267"/>
         <source>Saved Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>保存规则</translation>
     </message>
     <message>
         <location filename="conditional.py" line="275"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>名字:</translation>
     </message>
     <message>
         <location filename="conditional.py" line="282"/>
         <source>&amp;Load</source>
-        <translation type="unfinished"></translation>
+        <translation>载入(&amp;L)</translation>
     </message>
     <message>
         <location filename="conditional.py" line="285"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <location filename="conditional.py" line="289"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除(&amp;D)</translation>
     </message>
 </context>
 <context>
@@ -134,7 +134,7 @@
     <message>
         <location filename="configdialog.py" line="55"/>
         <source>Configure Data Types</source>
-        <translation type="unfinished"></translation>
+        <translation>配置数据类型</translation>
     </message>
     <message>
         <location filename="configdialog.py" line="66"/>
@@ -169,7 +169,7 @@
     <message>
         <location filename="configdialog.py" line="2321"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <location filename="configdialog.py" line="87"/>
@@ -1013,117 +1013,117 @@
     <message>
         <location filename="dataeditors.py" line="1242"/>
         <source>Today&apos;s &amp;Date</source>
-        <translation type="unfinished"></translation>
+        <translation>当前日期(&amp;D)</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="1880"/>
         <source>&amp;Open Link</source>
-        <translation type="unfinished"></translation>
+        <translation>打开链接(&amp;O)</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="1882"/>
         <source>Open &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>打开文件夹(&amp;F)</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2008"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>外部链接</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2011"/>
         <source>Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>方案</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2604"/>
         <source>&amp;Browse for File</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览文件(&amp;B)</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2610"/>
         <source>File Path Type</source>
-        <translation type="unfinished"></translation>
+        <translation>文件路径类型</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2616"/>
         <source>Absolute</source>
-        <translation type="unfinished"></translation>
+        <translation>绝对</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2619"/>
         <source>Relative</source>
-        <translation type="unfinished"></translation>
+        <translation>相对</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2626"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>地址</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2453"/>
         <source>Display Name</source>
-        <translation type="unfinished"></translation>
+        <translation>显示名称</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2640"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2643"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2212"/>
         <source>TreeLine - External Link File</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 外部链接文件</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2239"/>
         <source>&amp;Go to Target</source>
-        <translation type="unfinished"></translation>
+        <translation>转到目标(&amp;G)</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2445"/>
         <source>Internal Link</source>
-        <translation type="unfinished"></translation>
+        <translation>内部链接</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2527"/>
         <source>&amp;Open Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>打开图片(&amp;O)</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2593"/>
         <source>Picture Link</source>
-        <translation type="unfinished"></translation>
+        <translation>图片链接</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2742"/>
         <source>TreeLine - Picture File</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 图片文件</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="1815"/>
         <source>Set to &amp;Now</source>
-        <translation type="unfinished"></translation>
+        <translation>设置为当前时间(&amp;N)</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2241"/>
         <source>Clear &amp;Link</source>
-        <translation type="unfinished"></translation>
+        <translation>清除链接(&amp;L)</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2450"/>
         <source>(Click link target in tree)</source>
-        <translation type="unfinished"></translation>
+        <translation>(在树中点击链接目标)</translation>
     </message>
     <message>
         <location filename="dataeditors.py" line="2510"/>
         <source>link</source>
-        <translation type="unfinished"></translation>
+        <translation>链接</translation>
     </message>
 </context>
 <context>
@@ -1828,67 +1828,67 @@ Continue with absolute path?</source>
     <message>
         <location filename="globalref.py" line="32"/>
         <source>TreeLine Files</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine文件</translation>
     </message>
     <message>
         <location filename="globalref.py" line="34"/>
         <source>TreeLine Files - Compressed</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine文件 - 压缩</translation>
     </message>
     <message>
         <location filename="globalref.py" line="36"/>
         <source>TreeLine Files - Encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine文件 - 加密</translation>
     </message>
     <message>
         <location filename="globalref.py" line="38"/>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>所有文件</translation>
     </message>
     <message>
         <location filename="globalref.py" line="39"/>
         <source>HTML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML文件</translation>
     </message>
     <message>
         <location filename="globalref.py" line="40"/>
         <source>Text Files</source>
-        <translation type="unfinished"></translation>
+        <translation>文本文件</translation>
     </message>
     <message>
         <location filename="globalref.py" line="41"/>
         <source>XML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>XML文件</translation>
     </message>
     <message>
         <location filename="globalref.py" line="43"/>
         <source>ODF Text Files</source>
-        <translation type="unfinished"></translation>
+        <translation>ODF文本文件</translation>
     </message>
     <message>
         <location filename="globalref.py" line="44"/>
         <source>Treepad Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Treepad文件</translation>
     </message>
     <message>
         <location filename="globalref.py" line="45"/>
         <source>PDF Files</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF文件</translation>
     </message>
     <message>
         <location filename="globalref.py" line="42"/>
         <source>CSV (Comma Delimited) Files</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV(逗号分隔)文件</translation>
     </message>
     <message>
         <location filename="globalref.py" line="30"/>
         <source>All TreeLine Files</source>
-        <translation type="unfinished"></translation>
+        <translation>所有TreeLine文件</translation>
     </message>
     <message>
         <location filename="globalref.py" line="37"/>
         <source>Old TreeLine Files</source>
-        <translation type="unfinished"></translation>
+        <translation>老TreeLine文件</translation>
     </message>
 </context>
 <context>
@@ -2099,27 +2099,27 @@ Use an import filter?</source>
     <message>
         <location filename="matheval.py" line="198"/>
         <source>Illegal &quot;{}&quot; characters</source>
-        <translation type="unfinished"></translation>
+        <translation>非法的&quot;{}&quot;字符</translation>
     </message>
     <message>
         <location filename="matheval.py" line="210"/>
         <source>Child references must be combined in a function</source>
-        <translation type="unfinished"></translation>
+        <translation>必须在函数中组合子引用</translation>
     </message>
     <message>
         <location filename="matheval.py" line="577"/>
         <source>Illegal syntax in equation</source>
-        <translation type="unfinished"></translation>
+        <translation>等式中的非法语法</translation>
     </message>
     <message>
         <location filename="matheval.py" line="589"/>
         <source>Illegal function present: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>存在非法函数: {0}</translation>
     </message>
     <message>
         <location filename="matheval.py" line="601"/>
         <source>Illegal object type or operator: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>非法对象类型或运算符: {0}</translation>
     </message>
 </context>
 <context>
@@ -2951,27 +2951,27 @@ of week</source>
     <message>
         <location filename="options.py" line="575"/>
         <source>Choose configuration file location</source>
-        <translation type="unfinished"></translation>
+        <translation>选择配置文件位置</translation>
     </message>
     <message>
         <location filename="options.py" line="576"/>
         <source>User&apos;s home directory (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>用户的主目录(推荐)</translation>
     </message>
     <message>
         <location filename="options.py" line="577"/>
         <source>Program directory (for portable use)</source>
-        <translation type="unfinished"></translation>
+        <translation>程序目录(便携式使用)</translation>
     </message>
     <message>
         <location filename="options.py" line="715"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <location filename="options.py" line="718"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -2979,30 +2979,30 @@ of week</source>
     <message>
         <location filename="printdata.py" line="367"/>
         <source>Error initializing printer</source>
-        <translation type="unfinished"></translation>
+        <translation>初始化打印机时出错</translation>
     </message>
     <message>
         <location filename="printdata.py" line="579"/>
         <source>TreeLine - Export PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 导出PDF</translation>
     </message>
     <message>
         <location filename="printdata.py" line="344"/>
         <source>Warning: Page size and margin settings unsupported on current printer.
 Save page adjustments?</source>
-        <translation type="unfinished"></translation>
+        <translation>警告：当前打印机不支持页面大小和边距设置。保存页面调整？</translation>
     </message>
     <message>
         <location filename="printdata.py" line="347"/>
         <source>Warning: Page size setting unsupported on current printer.
 Save adjustment?</source>
-        <translation type="unfinished"></translation>
+        <translation>警告：当前打印机不支持页面大小设置。保存调整？</translation>
     </message>
     <message>
         <location filename="printdata.py" line="350"/>
         <source>Warning: Margin settings unsupported on current printer.
 Save adjustments?</source>
-        <translation type="unfinished"></translation>
+        <translation>警告：当前打印机不支持边距设置。保存调整？</translation>
     </message>
 </context>
 <context>
@@ -3545,7 +3545,7 @@ Continue from the top?</source>
     <message>
         <location filename="titlelistview.py" line="47"/>
         <source>Select in Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>在树中选择</translation>
     </message>
 </context>
 <context>
@@ -4858,7 +4858,7 @@ A previous session may have crashed</source>
     <message>
         <location filename="treewindow.py" line="435"/>
         <source>Start Incremental Search</source>
-        <translation>开始增量搜说</translation>
+        <translation type="unfinished">开始增量搜索</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="440"/>
