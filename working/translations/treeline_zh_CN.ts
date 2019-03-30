@@ -2990,19 +2990,22 @@ of week</source>
         <location filename="printdata.py" line="344"/>
         <source>Warning: Page size and margin settings unsupported on current printer.
 Save page adjustments?</source>
-        <translation>警告：当前打印机不支持页面大小和边距设置。保存页面调整？</translation>
+        <translation>警告：当前打印机不支持页面大小和边距设置。
+保存页面调整？</translation>
     </message>
     <message>
         <location filename="printdata.py" line="347"/>
         <source>Warning: Page size setting unsupported on current printer.
 Save adjustment?</source>
-        <translation>警告：当前打印机不支持页面大小设置。保存调整？</translation>
+        <translation>警告：当前打印机不支持页面大小设置。
+保存调整？</translation>
     </message>
     <message>
         <location filename="printdata.py" line="350"/>
         <source>Warning: Margin settings unsupported on current printer.
 Save adjustments?</source>
-        <translation>警告：当前打印机不支持边距设置。保存调整？</translation>
+        <translation>警告：当前打印机不支持边距设置。
+保存调整？</translation>
     </message>
 </context>
 <context>
@@ -3440,28 +3443,30 @@ Save adjustments?</source>
         <location filename="spellcheck.py" line="202"/>
         <source>Could not find either aspell.exe, ispell.exe or hunspell.exe
 Browse for location?</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到aspell.exe，ispell.exe或hunspell.exe
+指定位置？</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="204"/>
         <source>Spell Check Error</source>
-        <translation type="unfinished"></translation>
+        <translation>拼写检查错误</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="213"/>
         <source>Locate aspell.exe, ipsell.exe or hunspell.exe</source>
-        <translation type="unfinished"></translation>
+        <translation>定位aspell.exe，ipsell.exe或hunspell.exe</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="215"/>
         <source>Program (*.exe)</source>
-        <translation type="unfinished"></translation>
+        <translation>程序(*.exe)</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="225"/>
         <source>TreeLine Spell Check Error
 Make sure aspell, ispell or hunspell is installed</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine拼写检查错误
+确保安装了aspell，ispell或hunspell</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="257"/>
@@ -3553,127 +3558,127 @@ Continue from the top?</source>
     <message>
         <location filename="treeformats.py" line="26"/>
         <source>DEFAULT</source>
-        <translation type="unfinished"></translation>
+        <translation>默认</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="27"/>
         <source>FILE</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="28"/>
         <source>TYPE</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="41"/>
         <source>FIELD</source>
-        <translation type="unfinished"></translation>
+        <translation>字段</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="42"/>
         <source>FieldType</source>
-        <translation type="unfinished"></translation>
+        <translation>字段类型</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="29"/>
         <source>TitleFormat</source>
-        <translation type="unfinished"></translation>
+        <translation>标题格式</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="30"/>
         <source>OutputFormat</source>
-        <translation type="unfinished"></translation>
+        <translation>输出格式</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="31"/>
         <source>SpaceBetween</source>
-        <translation type="unfinished"></translation>
+        <translation>中间空格</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="32"/>
         <source>FormatHtml</source>
-        <translation type="unfinished"></translation>
+        <translation>格式Html</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="33"/>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>项目符号</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="34"/>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>表格</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="35"/>
         <source>ChildType</source>
-        <translation type="unfinished"></translation>
+        <translation>子类型</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="36"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>图标</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="37"/>
         <source>GenericType</source>
-        <translation type="unfinished"></translation>
+        <translation>一般类型</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="38"/>
         <source>ConditionalRule</source>
-        <translation type="unfinished"></translation>
+        <translation>条件规则</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="39"/>
         <source>ListSeparator</source>
-        <translation type="unfinished"></translation>
+        <translation>列表分割符</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="40"/>
         <source>ChildTypeLimit</source>
-        <translation type="unfinished"></translation>
+        <translation>子类型限制</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="43"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>格式</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="44"/>
         <source>Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>前缀</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="45"/>
         <source>Suffix</source>
-        <translation type="unfinished"></translation>
+        <translation>后缀</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="46"/>
         <source>InitialValue</source>
-        <translation type="unfinished"></translation>
+        <translation>初始值</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="47"/>
         <source>NumLines</source>
-        <translation type="unfinished"></translation>
+        <translation>数字线</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="48"/>
         <source>SortKeyNum</source>
-        <translation type="unfinished"></translation>
+        <translation>排序键编号</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="49"/>
         <source>SortForward</source>
-        <translation type="unfinished"></translation>
+        <translation>向前排序</translation>
     </message>
     <message>
         <location filename="treeformats.py" line="51"/>
         <source>EvalHtml</source>
-        <translation type="unfinished"></translation>
+        <translation>执行Html</translation>
     </message>
 </context>
 <context>
@@ -4670,37 +4675,37 @@ A previous session may have crashed</source>
     <message>
         <location filename="treeview.py" line="623"/>
         <source>Filtering by &quot;{0}&quot;, found {1} nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>按&quot;{0}&quot;过滤，找到{1}个节点</translation>
     </message>
     <message>
         <location filename="treeview.py" line="647"/>
         <source>Conditional filtering, found {0} nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>条件过滤，找到{0}个节点</translation>
     </message>
     <message>
         <location filename="treeview.py" line="198"/>
         <source>Search for:</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索:</translation>
     </message>
     <message>
         <location filename="treeview.py" line="203"/>
         <source>Search for: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索: {0}</translation>
     </message>
     <message>
         <location filename="treeview.py" line="208"/>
         <source>Search for: {0}  (not found)</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索: {0} (未找到)</translation>
     </message>
     <message>
         <location filename="treeview.py" line="229"/>
         <source>Next: {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>下一个: {0}</translation>
     </message>
     <message>
         <location filename="treeview.py" line="231"/>
         <source>Next: {0}  (not found)</source>
-        <translation type="unfinished"></translation>
+        <translation>下一个: {0} (未找到)</translation>
     </message>
 </context>
 <context>
@@ -4708,112 +4713,112 @@ A previous session may have crashed</source>
     <message>
         <location filename="treewindow.py" line="88"/>
         <source>Data Output</source>
-        <translation type="unfinished"></translation>
+        <translation>数据输出</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="97"/>
         <source>Data Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>数据编辑</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="124"/>
         <source>Title List</source>
-        <translation type="unfinished"></translation>
+        <translation>标题列表</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="370"/>
         <source>&amp;Expand Full Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>展开完整分支(&amp;E)</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="371"/>
         <source>Expand all children of the selected nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>展开选定节点的所有子节点</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="375"/>
         <source>&amp;Collapse Full Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>折叠完整分支(&amp;C)</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="376"/>
         <source>Collapse all children of the selected nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>折叠选定节点的所有子节点</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="380"/>
         <source>&amp;Previous Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>上一个选则(&amp;P)</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="381"/>
         <source>Return to the previous tree selection</source>
-        <translation type="unfinished"></translation>
+        <translation>返回上一个树选择</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="385"/>
         <source>&amp;Next Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>下一个选择(&amp;N)</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="386"/>
         <source>Go to the next tree selection in history</source>
-        <translation type="unfinished"></translation>
+        <translation>去到下一个历史树选择</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="391"/>
         <source>Show Data &amp;Output</source>
-        <translation type="unfinished"></translation>
+        <translation>显示数据输出(&amp;O)</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="392"/>
         <source>Show data output in right view</source>
-        <translation type="unfinished"></translation>
+        <translation>在右侧视图显示数据输出</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="396"/>
         <source>Show Data &amp;Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>显示数据编辑器(&amp;E)</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="397"/>
         <source>Show data editor in right view</source>
-        <translation type="unfinished"></translation>
+        <translation>在右侧视图显示数据编辑器</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="401"/>
         <source>Show &amp;Title List</source>
-        <translation type="unfinished"></translation>
+        <translation>显示标题列表(&amp;T)</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="402"/>
         <source>Show title list in right view</source>
-        <translation type="unfinished"></translation>
+        <translation>在右侧视图显示标题列表</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="416"/>
         <source>&amp;Show Child Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>显示子窗格(&amp;S)</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="417"/>
         <source>Toggle showing right-hand child views</source>
-        <translation type="unfinished"></translation>
+        <translation>切换显示右侧子视图</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="424"/>
         <source>Toggle showing output view indented descendants</source>
-        <translation type="unfinished"></translation>
+        <translation>切换显示输出视图缩进后代</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="430"/>
         <source>&amp;Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭窗口(&amp;C)</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="431"/>
         <source>Close this window</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭这个窗口</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="495"/>
@@ -4858,7 +4863,7 @@ A previous session may have crashed</source>
     <message>
         <location filename="treewindow.py" line="435"/>
         <source>Start Incremental Search</source>
-        <translation type="unfinished">开始增量搜索</translation>
+        <translation>开始增量搜索</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="440"/>
@@ -4873,17 +4878,17 @@ A previous session may have crashed</source>
     <message>
         <location filename="treewindow.py" line="408"/>
         <source>Show &amp;Breadcrumb View</source>
-        <translation type="unfinished"></translation>
+        <translation>显示面包屑视图(&amp;B)</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="409"/>
         <source>Toggle showing breadcrumb ancestor view</source>
-        <translation type="unfinished"></translation>
+        <translation>切换显示面包屑祖视图</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="423"/>
         <source>Show Output &amp;Descendants</source>
-        <translation type="unfinished"></translation>
+        <translation>显示输出后代(&amp;D)</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="585"/>
