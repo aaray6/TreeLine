@@ -1131,255 +1131,258 @@
     <message>
         <location filename="exports.py" line="51"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
     <message>
         <location filename="exports.py" line="463"/>
         <source>TreeLine - Export HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 导出HTML</translation>
     </message>
     <message>
         <location filename="exports.py" line="531"/>
         <source>TreeLine - Export Text Titles</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 导出文本标题</translation>
     </message>
     <message>
         <location filename="exports.py" line="562"/>
         <source>TreeLine - Export Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 导出纯文本</translation>
     </message>
     <message>
         <location filename="exports.py" line="679"/>
         <source>TreeLine - Export Text Tables</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 导出文本表格</translation>
     </message>
     <message>
         <location filename="exports.py" line="799"/>
         <source>TreeLine - Export Generic XML</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 导出通用XML</translation>
     </message>
     <message>
         <location filename="exports.py" line="768"/>
         <source>TreeLine - Export TreeLine Subtree</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 导出TreeLine子树</translation>
     </message>
     <message>
         <location filename="exports.py" line="826"/>
         <source>TreeLine - Export ODF Text</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 导出ODF文本</translation>
     </message>
     <message>
         <location filename="exports.py" line="966"/>
         <source>TreeLine - Export HTML Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 导出HTML书签</translation>
     </message>
     <message>
         <location filename="exports.py" line="997"/>
         <source>TreeLine - Export XBEL Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 导出XBEL书签</translation>
     </message>
     <message>
         <location filename="exports.py" line="1642"/>
         <source>&amp;HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;HTML</translation>
     </message>
     <message>
         <location filename="exports.py" line="1642"/>
         <source>&amp;Text</source>
-        <translation type="unfinished"></translation>
+        <translation>文本(&amp;T)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1644"/>
         <source>&amp;ODF Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ODF大纲</translation>
     </message>
     <message>
         <location filename="exports.py" line="1646"/>
         <source>Book&amp;marks</source>
-        <translation type="unfinished"></translation>
+        <translation>书签(&amp;m)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1655"/>
         <source>&amp;Single HTML page</source>
-        <translation type="unfinished"></translation>
+        <translation>单个HTML页面(&amp;S)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1657"/>
         <source>Single &amp;HTML page with navigation pane</source>
-        <translation type="unfinished"></translation>
+        <translation>带有导航窗格的单个&amp;HTML页面</translation>
     </message>
     <message>
         <location filename="exports.py" line="1659"/>
         <source>Multiple HTML &amp;pages with navigation pane</source>
-        <translation type="unfinished"></translation>
+        <translation>带导航窗格的多个HTML页面(&amp;p)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1660"/>
         <source>Multiple HTML &amp;data tables</source>
-        <translation type="unfinished"></translation>
+        <translation>多个HTML和数据表(&amp;d)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1665"/>
         <source>&amp;Tabbed title text</source>
-        <translation type="unfinished"></translation>
+        <translation>标签标题文字(&amp;T)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1666"/>
         <source>&amp;Unformatted output of all text</source>
-        <translation type="unfinished"></translation>
+        <translation>未格式化的所有文本输出(&amp;U)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1675"/>
         <source>&amp;HTML format bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;HTML格式的书签</translation>
     </message>
     <message>
         <location filename="exports.py" line="1677"/>
         <source>&amp;XBEL format bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;XBEL格式的书签</translation>
     </message>
     <message>
         <location filename="exports.py" line="1700"/>
         <source>File Export</source>
-        <translation type="unfinished"></translation>
+        <translation>文件导出</translation>
     </message>
     <message>
         <location filename="exports.py" line="1721"/>
         <source>Choose export format type</source>
-        <translation type="unfinished"></translation>
+        <translation>选择导出格式类型</translation>
     </message>
     <message>
         <location filename="exports.py" line="1765"/>
         <source>Choose export format subtype</source>
-        <translation type="unfinished"></translation>
+        <translation>选择导出格式子类型</translation>
     </message>
     <message>
         <location filename="exports.py" line="1812"/>
         <source>Choose export options</source>
-        <translation type="unfinished"></translation>
+        <translation>选择导出选项</translation>
     </message>
     <message>
         <location filename="exports.py" line="1814"/>
         <source>What to Export</source>
-        <translation type="unfinished"></translation>
+        <translation>导出什么</translation>
     </message>
     <message>
         <location filename="exports.py" line="1818"/>
         <source>&amp;Entire tree</source>
-        <translation type="unfinished"></translation>
+        <translation>整棵树(&amp;E)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1821"/>
         <source>Selected &amp;branches</source>
-        <translation type="unfinished"></translation>
+        <translation>选定的分支(&amp;b)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1824"/>
         <source>Selected &amp;nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>选定的节点(&amp;n)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1830"/>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>其他选项</translation>
     </message>
     <message>
         <location filename="exports.py" line="1838"/>
         <source>&amp;Only open node children</source>
-        <translation type="unfinished"></translation>
+        <translation>只有打开节点的子节点(&amp;O)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1844"/>
         <source>Include &amp;print header &amp;&amp; footer</source>
-        <translation type="unfinished"></translation>
+        <translation>包括打印标题和页脚(&amp;p)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1856"/>
         <source>&amp;Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>列(&amp;C)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1868"/>
         <source>Navigation pane &amp;levels</source>
-        <translation type="unfinished"></translation>
+        <translation>导航窗格级别(&amp;l)</translation>
     </message>
     <message>
         <location filename="exports.py" line="479"/>
         <source>Error - export template files not found.
 Check your TreeLine installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 - 未找到导出模板文件。
+检查TreeLine安装。</translation>
     </message>
     <message>
         <location filename="exports.py" line="420"/>
         <source>Error - cannot link to unsaved TreeLine file.
 Save the file and retry.</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 - 无法链接到未保存的TreeLine文件。
+保存文件并重试。</translation>
     </message>
     <message>
         <location filename="exports.py" line="427"/>
         <source>Warning - no relative path from &quot;{0}&quot; to &quot;{1}&quot;.
 Continue with absolute path?</source>
-        <translation type="unfinished"></translation>
+        <translation>警告 - 没有从“{0}”到“{1}”的相对路径。
+继续绝对路径？</translation>
     </message>
     <message>
         <location filename="exports.py" line="1185"/>
         <source>Parent</source>
-        <translation type="unfinished"></translation>
+        <translation>父</translation>
     </message>
     <message>
         <location filename="exports.py" line="1643"/>
         <source>Tree&amp;Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Tree&amp;Line</translation>
     </message>
     <message>
         <location filename="exports.py" line="1644"/>
         <source>&amp;XML (generic)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;XML (通用)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1662"/>
         <source>Live tree view, linked to TreeLine file (for web server)</source>
-        <translation type="unfinished"></translation>
+        <translation>实时树视图，链接到TreeLine文件（用于Web服务器）</translation>
     </message>
     <message>
         <location filename="exports.py" line="1664"/>
         <source>Live tree view, single file (embedded data)</source>
-        <translation type="unfinished"></translation>
+        <translation>实时树视图，单个文件（嵌入数据）</translation>
     </message>
     <message>
         <location filename="exports.py" line="1668"/>
         <source>&amp;Comma delimited (CSV) table of descendants (level numbers)</source>
-        <translation type="unfinished"></translation>
+        <translation>逗号分隔（CSV）后代表格（级别编号）(&amp;C)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1670"/>
         <source>Comma &amp;delimited (CSV) table of children (single level)</source>
-        <translation type="unfinished"></translation>
+        <translation>逗号分隔（CSV）子表格（单级）(&amp;d)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1672"/>
         <source>Tab &amp;delimited table of children (&amp;single level)</source>
-        <translation type="unfinished"></translation>
+        <translation>制表符分隔（CSV）子表格（单级）(&amp;d)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1673"/>
         <source>&amp;Old TreeLine (2.0.x)</source>
-        <translation type="unfinished"></translation>
+        <translation>老TreeLine （2.0.x）（&amp;O）</translation>
     </message>
     <message>
         <location filename="exports.py" line="1674"/>
         <source>&amp;TreeLine Subtree</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine子树（&amp;T）</translation>
     </message>
     <message>
         <location filename="exports.py" line="1833"/>
         <source>&amp;Include root nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>包括跟节点(&amp;I)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1889"/>
         <source>Must select nodes prior to export</source>
-        <translation type="unfinished"></translation>
+        <translation>必须在导出之前选择节点</translation>
     </message>
 </context>
 <context>
@@ -1387,417 +1390,417 @@ Continue with absolute path?</source>
     <message>
         <location filename="fieldformat.py" line="27"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>文本</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="27"/>
         <source>HtmlText</source>
-        <translation type="unfinished"></translation>
+        <translation>Html文本</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="27"/>
         <source>OneLineText</source>
-        <translation type="unfinished"></translation>
+        <translation>单行文本</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="27"/>
         <source>SpacedText</source>
-        <translation type="unfinished"></translation>
+        <translation>间隔文本</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="28"/>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>数字</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="28"/>
         <source>Math</source>
-        <translation type="unfinished"></translation>
+        <translation>数学</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="28"/>
         <source>Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>编号</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="29"/>
         <source>Boolean</source>
-        <translation type="unfinished"></translation>
+        <translation>布尔</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="29"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>日期</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="29"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>时间</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="30"/>
         <source>Choice</source>
-        <translation type="unfinished"></translation>
+        <translation>选择</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="30"/>
         <source>AutoChoice</source>
-        <translation type="unfinished"></translation>
+        <translation>自动选择</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="30"/>
         <source>Combination</source>
-        <translation type="unfinished"></translation>
+        <translation>组合</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="31"/>
         <source>AutoCombination</source>
-        <translation type="unfinished"></translation>
+        <translation>自动组合</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="31"/>
         <source>ExternalLink</source>
-        <translation type="unfinished"></translation>
+        <translation>外部链接</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="31"/>
         <source>InternalLink</source>
-        <translation type="unfinished"></translation>
+        <translation>内部链接</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="32"/>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>图片</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="33"/>
         <source>RegularExpression</source>
-        <translation type="unfinished"></translation>
+        <translation>正则表达式</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="37"/>
         <source>Now</source>
-        <translation type="unfinished"></translation>
+        <translation>现在</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="430"/>
         <source>Optional Digit	#</source>
-        <translation type="unfinished"></translation>
+        <translation>可选数字	#</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="431"/>
         <source>Required Digit	0</source>
-        <translation type="unfinished"></translation>
+        <translation>必需数字	0</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="432"/>
         <source>Digit or Space (external)	&lt;space&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>数字或空格（外部）	&lt;space&gt;</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="434"/>
         <source>Decimal Point	.</source>
-        <translation type="unfinished"></translation>
+        <translation>小数点	.</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="435"/>
         <source>Decimal Comma	,</source>
-        <translation type="unfinished"></translation>
+        <translation>十进制逗号	,</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="439"/>
         <source>Space Separator (internal)	&lt;space&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>空格分隔符 (内部)	&lt;space&gt;</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="441"/>
         <source>Optional Sign	-</source>
-        <translation type="unfinished"></translation>
+        <translation>可选标志	-</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="442"/>
         <source>Required Sign	+</source>
-        <translation type="unfinished"></translation>
+        <translation>必需的标志	+</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="444"/>
         <source>Exponent (capital)	E</source>
-        <translation type="unfinished"></translation>
+        <translation>指数 (大写)	E</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="445"/>
         <source>Exponent (small)	e</source>
-        <translation type="unfinished"></translation>
+        <translation>指数(小写)	e</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="759"/>
         <source>Number	1</source>
-        <translation type="unfinished"></translation>
+        <translation>数	1</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="760"/>
         <source>Capital Letter	A</source>
-        <translation type="unfinished"></translation>
+        <translation>大写字母	A</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="761"/>
         <source>Small Letter	a</source>
-        <translation type="unfinished"></translation>
+        <translation>小写字母	a</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="762"/>
         <source>Capital Roman Numeral	I</source>
-        <translation type="unfinished"></translation>
+        <translation>大写罗马数字	I</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="763"/>
         <source>Small Roman Numeral	i</source>
-        <translation type="unfinished"></translation>
+        <translation>小写罗马数字	i</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="765"/>
         <source>Level Separator	/</source>
-        <translation type="unfinished"></translation>
+        <translation>级分隔符	/</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="766"/>
         <source>Section Separator	.</source>
-        <translation type="unfinished"></translation>
+        <translation>段落分隔符	.</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1423"/>
         <source>&quot;/&quot; Character	//</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;/&quot; 字符	//</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="769"/>
         <source>&quot;.&quot; Character	..</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;.&quot; 字符	..</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="771"/>
         <source>Outline Example	I../A../1../a)/i)</source>
-        <translation type="unfinished"></translation>
+        <translation>大纲例子	I../A../1../a)/i)</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="773"/>
         <source>Section Example	1.1.1.1</source>
-        <translation type="unfinished"></translation>
+        <translation>段落例子	1.1.1.1</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1422"/>
         <source>Separator	/</source>
-        <translation type="unfinished"></translation>
+        <translation>分隔符	/</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1424"/>
         <source>Example	1/2/3/4</source>
-        <translation type="unfinished"></translation>
+        <translation>例子	1/2/3/4</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1841"/>
         <source>yes/no</source>
-        <translation type="unfinished"></translation>
+        <translation>yes/no</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1839"/>
         <source>true/false</source>
-        <translation type="unfinished"></translation>
+        <translation>true/false</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1840"/>
         <source>T/F</source>
-        <translation type="unfinished"></translation>
+        <translation>T/F</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1842"/>
         <source>Y/N</source>
-        <translation type="unfinished"></translation>
+        <translation>Y/N</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="2232"/>
         <source>Any Character	.</source>
-        <translation type="unfinished"></translation>
+        <translation>任意字符	.</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="2233"/>
         <source>End of Text	$</source>
-        <translation type="unfinished"></translation>
+        <translation>文本结尾	$</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="2235"/>
         <source>0 Or More Repetitions	*</source>
-        <translation type="unfinished"></translation>
+        <translation>重复0或多次	*</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="2236"/>
         <source>1 Or More Repetitions	+</source>
-        <translation type="unfinished"></translation>
+        <translation>重复1或多次	+</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="2237"/>
         <source>0 Or 1 Repetitions	?</source>
-        <translation type="unfinished"></translation>
+        <translation>重复0或1次	?</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="2239"/>
         <source>Set of Numbers	[0-9]</source>
-        <translation type="unfinished"></translation>
+        <translation>数字	[0-9]</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="2240"/>
         <source>Lower Case Letters	[a-z]</source>
-        <translation type="unfinished"></translation>
+        <translation>小写字母	[a-z]</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="2241"/>
         <source>Upper Case Letters	[A-Z]</source>
-        <translation type="unfinished"></translation>
+        <translation>大写字母	[A-Z]</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="2242"/>
         <source>Not a Number	[^0-9]</source>
-        <translation type="unfinished"></translation>
+        <translation>非数字	[^0-9]</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="2244"/>
         <source>Or	|</source>
-        <translation type="unfinished"></translation>
+        <translation>或	|</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="2245"/>
         <source>Escape a Special Character	\</source>
-        <translation type="unfinished"></translation>
+        <translation>特殊字符转义	\</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="29"/>
         <source>DateTime</source>
-        <translation type="unfinished"></translation>
+        <translation>日期时间</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1224"/>
         <source>Day (1 or 2 digits)	%-d</source>
-        <translation type="unfinished"></translation>
+        <translation>日 (1或2位)	%-d</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1225"/>
         <source>Day (2 digits)	%d</source>
-        <translation type="unfinished"></translation>
+        <translation>日 (2位)	%d</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1226"/>
         <source>Weekday Abbreviation	%a</source>
-        <translation type="unfinished"></translation>
+        <translation>星期缩写	%a</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1227"/>
         <source>Weekday Name	%A</source>
-        <translation type="unfinished"></translation>
+        <translation>星期名字	%A</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1228"/>
         <source>Month (1 or 2 digits)	%-m</source>
-        <translation type="unfinished"></translation>
+        <translation>月 (1 or 2 digits)	%-m</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1229"/>
         <source>Month (2 digits)	%m</source>
-        <translation type="unfinished"></translation>
+        <translation>月 (2 digits)	%m</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1230"/>
         <source>Month Abbreviation	%b</source>
-        <translation type="unfinished"></translation>
+        <translation>月缩写	%b</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1231"/>
         <source>Month Name	%B</source>
-        <translation type="unfinished"></translation>
+        <translation>月名字	%B</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1232"/>
         <source>Year (2 digits)	%y</source>
-        <translation type="unfinished"></translation>
+        <translation>年 (2 digits)	%y</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1233"/>
         <source>Year (4 digits)	%Y</source>
-        <translation type="unfinished"></translation>
+        <translation>年 (4 digits)	%Y</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1234"/>
         <source>Week Number (0 to 53)	%-U</source>
-        <translation type="unfinished"></translation>
+        <translation>星期数字 (0 to 53)	%-U</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1235"/>
         <source>Day of year (1 to 366)	%-j</source>
-        <translation type="unfinished"></translation>
+        <translation>年内第几日 (1 to 366)	%-j</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1236"/>
         <source>Hour (0-23, 1 or 2 digits)	%-H</source>
-        <translation type="unfinished"></translation>
+        <translation>小时(0-23, 1 or 2 digits)	%-H</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1237"/>
         <source>Hour (00-23, 2 digits)	%H</source>
-        <translation type="unfinished"></translation>
+        <translation>小时(00-23, 2 digits)	%H</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1238"/>
         <source>Hour (1-12, 1 or 2 digits)	%-I</source>
-        <translation type="unfinished"></translation>
+        <translation>小时 (1-12, 1 or 2 digits)	%-I</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1239"/>
         <source>Hour (01-12, 2 digits)	%I</source>
-        <translation type="unfinished"></translation>
+        <translation>小时 (01-12, 2 digits)	%I</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1240"/>
         <source>Minute (1 or 2 digits)	%-M</source>
-        <translation type="unfinished"></translation>
+        <translation>分 (1 or 2 digits)	%-M</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1241"/>
         <source>Minute (2 digits)	%M</source>
-        <translation type="unfinished"></translation>
+        <translation>分 (2 digits)	%M</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1242"/>
         <source>Second (1 or 2 digits)	%-S</source>
-        <translation type="unfinished"></translation>
+        <translation>秒 (1 or 2 digits)	%-S</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1243"/>
         <source>Second (2 digits)	%S</source>
-        <translation type="unfinished"></translation>
+        <translation>秒 (2 digits)	%S</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1244"/>
         <source>Microseconds (6 digits)	%f</source>
-        <translation type="unfinished"></translation>
+        <translation>毫秒 (6 digits)	%f</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="1245"/>
         <source>AM/PM	%p</source>
-        <translation type="unfinished"></translation>
+        <translation>AM/PM	%p</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="437"/>
         <source>Comma Separator	\,</source>
-        <translation type="unfinished"></translation>
+        <translation>逗号分隔符	\,</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="438"/>
         <source>Dot Separator	\.</source>
-        <translation type="unfinished"></translation>
+        <translation>点分隔符	\.</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="2526"/>
         <source>DescendantCount</source>
-        <translation type="unfinished"></translation>
+        <translation>后代数</translation>
     </message>
 </context>
 <context>
@@ -1939,159 +1942,161 @@ Continue with absolute path?</source>
     <message>
         <location filename="imports.py" line="37"/>
         <source>&amp;Tab indented text, one node per line</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tab缩进文本，每行一个节点</translation>
     </message>
     <message>
         <location filename="imports.py" line="43"/>
         <source>Tab delimited text table with header &amp;row</source>
-        <translation type="unfinished"></translation>
+        <translation>带标题和行的Tab分隔文本表格(&amp;r)</translation>
     </message>
     <message>
         <location filename="imports.py" line="47"/>
         <source>Plain text &amp;paragraphs (blank line delimited)</source>
-        <translation type="unfinished"></translation>
+        <translation>纯文本与段落(空白行分隔)(&amp;p)</translation>
     </message>
     <message>
         <location filename="imports.py" line="54"/>
         <source>Treepad &amp;file (text nodes only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Treepad和文件(仅限文本节点)(&amp;f)</translation>
     </message>
     <message>
         <location filename="imports.py" line="55"/>
         <source>&amp;Generic XML (non-TreeLine file)</source>
-        <translation type="unfinished"></translation>
+        <translation>通用XML(非TreeLine文件)(&amp;G)</translation>
     </message>
     <message>
         <location filename="imports.py" line="56"/>
         <source>Open &amp;Document (ODF) outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Open &amp;Document (ODF)大纲</translation>
     </message>
     <message>
         <location filename="imports.py" line="50"/>
         <source>&amp;HTML bookmarks (Mozilla Format)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;HTML书签(Mozilla格式)</translation>
     </message>
     <message>
         <location filename="imports.py" line="51"/>
         <source>&amp;XML bookmarks (XBEL format)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;XML书签(XBEL格式)</translation>
     </message>
     <message>
         <location filename="imports.py" line="77"/>
         <source>FOLDER</source>
-        <translation type="unfinished"></translation>
+        <translation>目录</translation>
     </message>
     <message>
         <location filename="imports.py" line="78"/>
         <source>BOOKMARK</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
     <message>
         <location filename="imports.py" line="79"/>
         <source>SEPARATOR</source>
-        <translation type="unfinished"></translation>
+        <translation>分隔符</translation>
     </message>
     <message>
         <location filename="imports.py" line="80"/>
         <source>Link</source>
-        <translation type="unfinished"></translation>
+        <translation>链接</translation>
     </message>
     <message>
         <location filename="imports.py" line="81"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>文本</translation>
     </message>
     <message>
         <location filename="imports.py" line="108"/>
         <source>Import File</source>
-        <translation type="unfinished"></translation>
+        <translation>导入文件</translation>
     </message>
     <message>
         <location filename="imports.py" line="109"/>
         <source>Choose Import Method</source>
-        <translation type="unfinished"></translation>
+        <translation>选择导入方式</translation>
     </message>
     <message>
         <location filename="imports.py" line="115"/>
         <source>Invalid File</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的文件</translation>
     </message>
     <message>
         <location filename="imports.py" line="117"/>
         <source>&quot;{0}&quot; is not a valid TreeLine file.
 
 Use an import filter?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{0}&quot;不是有效的TreeLine文件。
+
+使用导入过滤器？</translation>
     </message>
     <message>
         <location filename="imports.py" line="127"/>
         <source>TreeLine - Import File</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 导入文件</translation>
     </message>
     <message>
         <location filename="imports.py" line="141"/>
         <source>Error - could not read file {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 - 无法读取文件{0}</translation>
     </message>
     <message>
         <location filename="imports.py" line="145"/>
         <source>Error - improper format in {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 -  {0}中的格式不正确</translation>
     </message>
     <message>
         <location filename="imports.py" line="272"/>
         <source>TABLE</source>
-        <translation type="unfinished"></translation>
+        <translation>表格</translation>
     </message>
     <message>
         <location filename="imports.py" line="895"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
     <message>
         <location filename="imports.py" line="292"/>
         <source>Too many entries on Line {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>行{0}上的条目太多</translation>
     </message>
     <message>
         <location filename="imports.py" line="45"/>
         <source>Plain text, one &amp;node per line (CR delimited)</source>
-        <translation type="unfinished"></translation>
+        <translation>纯文本，每行一个节点(回车分隔)(&amp;n)</translation>
     </message>
     <message>
         <location filename="imports.py" line="259"/>
         <source>Bad CSV format on Line {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>行{0}上的错误CSV格式</translation>
     </message>
     <message>
         <location filename="imports.py" line="40"/>
         <source>Co&amp;mma delimited (CSV) text table with level column &amp;&amp; header row</source>
-        <translation type="unfinished"></translation>
+        <translation>带有级别列 &amp;&amp; 标题行的逗号分隔（CSV）文本表格(&amp;m)</translation>
     </message>
     <message>
         <location filename="imports.py" line="41"/>
         <source>Comma delimited (CSV) text table &amp;with header row</source>
-        <translation type="unfinished"></translation>
+        <translation>带有标题行的逗号分隔（CSV）文本表格(&amp;w)</translation>
     </message>
     <message>
         <location filename="imports.py" line="52"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>其他</translation>
     </message>
     <message>
         <location filename="imports.py" line="53"/>
         <source>Old Tree&amp;Line File (1.x or 2.x)</source>
-        <translation type="unfinished"></translation>
+        <translation>老Tree&amp;Line文件(1.x或2.x)</translation>
     </message>
     <message>
         <location filename="imports.py" line="202"/>
         <source>Invalid level number on line {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>第{0}行上的级别编号无效</translation>
     </message>
     <message>
         <location filename="imports.py" line="224"/>
         <source>Invalid level structure</source>
-        <translation type="unfinished"></translation>
+        <translation>级别结构无效</translation>
     </message>
 </context>
 <context>
@@ -2127,27 +2132,27 @@ Use an import filter?</source>
     <message>
         <location filename="miscdialogs.py" line="1974"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <location filename="miscdialogs.py" line="1895"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <location filename="miscdialogs.py" line="134"/>
         <source>Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>字段</translation>
     </message>
     <message>
         <location filename="miscdialogs.py" line="190"/>
         <source>File Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>文件属性</translation>
     </message>
     <message>
         <location filename="miscdialogs.py" line="194"/>
         <source>File Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>文件存储</translation>
     </message>
     <message>
         <location filename="miscdialogs.py" line="197"/>
@@ -2739,211 +2744,215 @@ an explanation of the circumstances.
     <message>
         <location filename="optiondefaults.py" line="18"/>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>星期一</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="18"/>
         <source>Tuesday</source>
-        <translation type="unfinished"></translation>
+        <translation>星期二</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="18"/>
         <source>Wednesday</source>
-        <translation type="unfinished"></translation>
+        <translation>星期三</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="18"/>
         <source>Thursday</source>
-        <translation type="unfinished"></translation>
+        <translation>星期四</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="19"/>
         <source>Friday</source>
-        <translation type="unfinished"></translation>
+        <translation>星期五</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="19"/>
         <source>Saturday</source>
-        <translation type="unfinished"></translation>
+        <translation>星期六</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="20"/>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>星期日</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="49"/>
         <source>Startup Condition</source>
-        <translation type="unfinished"></translation>
+        <translation>启动条件</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="32"/>
         <source>Automatically open last file used</source>
-        <translation type="unfinished"></translation>
+        <translation>自动打开上次使用的文件</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="41"/>
         <source>Show descendants in output view</source>
-        <translation type="unfinished"></translation>
+        <translation>在输出视图中显示后代</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="44"/>
         <source>Restore tree view states of recent files</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复最近文件的树视图状态</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="50"/>
         <source>Restore previous window geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复上一个窗口几何</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="74"/>
         <source>Features Available</source>
-        <translation type="unfinished"></translation>
+        <translation>可用功能</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="53"/>
         <source>Open files in new windows</source>
-        <translation type="unfinished"></translation>
+        <translation>在新窗口中打开文件</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="61"/>
         <source>Click node to rename</source>
-        <translation type="unfinished"></translation>
+        <translation>单击节点重命名</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="63"/>
         <source>Rename new nodes when created</source>
-        <translation type="unfinished"></translation>
+        <translation>创建时重命名新节点</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="65"/>
         <source>Tree drag &amp;&amp; drop available</source>
-        <translation type="unfinished"></translation>
+        <translation>树拖放可用</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="70"/>
         <source>Show icons in the tree view</source>
-        <translation type="unfinished"></translation>
+        <translation>在树视图中显示图标</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="72"/>
         <source>Show math fields in the Data Edit view</source>
-        <translation type="unfinished"></translation>
+        <translation>在数据编辑视图中显示数学字段</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="75"/>
         <source>Show numbering fields in the Data Edit view</source>
-        <translation type="unfinished"></translation>
+        <translation>在数据编辑视图中显示编号字段</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="76"/>
         <source>Undo Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>撤消内存</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="77"/>
         <source>Number of undo levels</source>
-        <translation type="unfinished"></translation>
+        <translation>撤消级别数</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="78"/>
         <source>Auto Save</source>
-        <translation type="unfinished"></translation>
+        <translation>自动保存</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="79"/>
         <source>Minutes between saves
 (set to 0 to disable)</source>
-        <translation type="unfinished"></translation>
+        <translation>保存之间的分钟数
+（设为0表示禁用）</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="80"/>
         <source>Recent Files</source>
-        <translation type="unfinished"></translation>
+        <translation>最近的文件</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="81"/>
         <source>Number of recent files 
 in the file menu</source>
-        <translation type="unfinished"></translation>
+        <translation>最近文件的数量
+在文件菜单中</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="87"/>
         <source>Data Editor Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>数据编辑器格式</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="83"/>
         <source>Times</source>
-        <translation type="unfinished"></translation>
+        <translation>时</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="85"/>
         <source>Dates</source>
-        <translation type="unfinished"></translation>
+        <translation>日期</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="87"/>
         <source>First day
 of week</source>
-        <translation type="unfinished"></translation>
+        <translation>第一天
+每周</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="91"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>呈现</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="89"/>
         <source>Child indent offset
 (in font height units) </source>
-        <translation type="unfinished"></translation>
+        <translation>子缩进偏移
+（字体高度单位）</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="35"/>
         <source>Show breadcrumb ancestor view</source>
-        <translation type="unfinished"></translation>
+        <translation>显示面包屑祖先视图</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="38"/>
         <source>Show child pane in right hand views</source>
-        <translation type="unfinished"></translation>
+        <translation>在右手视图中显示子窗格</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="47"/>
         <source>Remove inaccessible recent file entries</source>
-        <translation type="unfinished"></translation>
+        <translation>删除无法访问的最近文件条目</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="59"/>
         <source>Activate data editors on mouse hover</source>
-        <translation type="unfinished"></translation>
+        <translation>在鼠标悬停时激活数据编辑器</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="20"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>正常</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="23"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>暗</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="56"/>
         <source>Minimize application to system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>最小化应用程序到系统托盘</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="68"/>
         <source>Indent (pretty print) TreeLine JSON files</source>
-        <translation type="unfinished"></translation>
+        <translation>缩进(优雅打印)TreeLine JSON文件</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="91"/>
         <source>Color Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>色彩主题</translation>
     </message>
 </context>
 <context>
@@ -3013,428 +3022,429 @@ Save adjustments?</source>
     <message>
         <location filename="printdialogs.py" line="50"/>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>打印预览</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="62"/>
         <source>Fit Width</source>
-        <translation type="unfinished"></translation>
+        <translation>适合宽度</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="69"/>
         <source>Fit Page</source>
-        <translation type="unfinished"></translation>
+        <translation>适合页面</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="86"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>放大</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="93"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>缩小</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="101"/>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>前一页</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="119"/>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>后一页</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="127"/>
         <source>Single Page</source>
-        <translation type="unfinished"></translation>
+        <translation>单页</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="135"/>
         <source>Facing Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>面对页面</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="145"/>
         <source>Print Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>打印设置</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="152"/>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>打印</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="322"/>
         <source>Printing Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>打印设置</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="331"/>
         <source>&amp;General Options</source>
-        <translation type="unfinished"></translation>
+        <translation>常规选项(&amp;G)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="334"/>
         <source>Page &amp;Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>页面设置(&amp;S)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="336"/>
         <source>&amp;Font Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>字体选择(&amp;F)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="338"/>
         <source>&amp;Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>页眉/页脚(&amp;H)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="346"/>
         <source>Print Pre&amp;view...</source>
-        <translation type="unfinished"></translation>
+        <translation>打印预览(&amp;v)...</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="349"/>
         <source>&amp;Print...</source>
-        <translation type="unfinished"></translation>
+        <translation>打印(&amp;P)...</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1379"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1382"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="424"/>
         <source>What to print</source>
-        <translation type="unfinished"></translation>
+        <translation>打印什么</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="428"/>
         <source>&amp;Entire tree</source>
-        <translation type="unfinished"></translation>
+        <translation>整棵树(&amp;E)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="431"/>
         <source>Selected &amp;branches</source>
-        <translation type="unfinished"></translation>
+        <translation>选定的分支(&amp;b)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="435"/>
         <source>Selected &amp;nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>选定的节点(&amp;n)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="441"/>
         <source>Included Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>包括的节点</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="444"/>
         <source>&amp;Include root node</source>
-        <translation type="unfinished"></translation>
+        <translation>包括跟节点(&amp;I)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="447"/>
         <source>Onl&amp;y open node children</source>
-        <translation type="unfinished"></translation>
+        <translation>只有打开节点的子节点(&amp;y)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="465"/>
         <source>Features</source>
-        <translation type="unfinished"></translation>
+        <translation>特征</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="468"/>
         <source>&amp;Draw lines to children</source>
-        <translation type="unfinished"></translation>
+        <translation>给子节点画线(&amp;D)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="471"/>
         <source>&amp;Keep first child with parent</source>
-        <translation type="unfinished"></translation>
+        <translation>保持第一个子节点在父节点上(&amp;K)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="475"/>
         <source>Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>缩进</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="478"/>
         <source>Indent Offse&amp;t
 (line height units)</source>
-        <translation type="unfinished"></translation>
+        <translation>缩进偏移量(&amp;t)
+（线高单位）</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="537"/>
         <source>Letter (8.5 x 11 in.)</source>
-        <translation type="unfinished"></translation>
+        <translation>信纸 (8.5 x 11 in.)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="538"/>
         <source>Legal (8.5 x 14 in.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Legal (8.5 x 14 in.)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="539"/>
         <source>Tabloid (11 x 17 in.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabloid (11 x 17 in.)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="540"/>
         <source>A3 (279 x 420 mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>A3 (279 x 420 mm)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="541"/>
         <source>A4 (210 x 297 mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>A4 (210 x 297 mm)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="542"/>
         <source>A5 (148 x 210 mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>A5 (148 x 210 mm)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="543"/>
         <source>Custom Size</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义大小</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="544"/>
         <source>Inches (in)</source>
-        <translation type="unfinished"></translation>
+        <translation>英寸(in)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="545"/>
         <source>Millimeters (mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>毫米 (mm)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="546"/>
         <source>Centimeters (cm)</source>
-        <translation type="unfinished"></translation>
+        <translation>厘米 (cm)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="570"/>
         <source>&amp;Units</source>
-        <translation type="unfinished"></translation>
+        <translation>单位(&amp;U)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="582"/>
         <source>Paper &amp;Size</source>
-        <translation type="unfinished"></translation>
+        <translation>纸张尺寸(&amp;S)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="597"/>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>宽(&amp;W):</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="604"/>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>高:</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="614"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>方向</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="617"/>
         <source>Portra&amp;it</source>
-        <translation type="unfinished"></translation>
+        <translation>竖向(&amp;i)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="619"/>
         <source>Lan&amp;dscape</source>
-        <translation type="unfinished"></translation>
+        <translation>水平(&amp;d)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="632"/>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>边距</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="639"/>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>左(&amp;L):</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="644"/>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>上(&amp;T):</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="649"/>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>右(&amp;R):</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="654"/>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>下(&amp;B):</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="664"/>
         <source>He&amp;ader:</source>
-        <translation type="unfinished"></translation>
+        <translation>页眉(&amp;a):</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="670"/>
         <source>Foot&amp;er:</source>
-        <translation type="unfinished"></translation>
+        <translation>页脚(&amp;e):</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="677"/>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>列</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="680"/>
         <source>&amp;Number of columns</source>
-        <translation type="unfinished"></translation>
+        <translation>列数(&amp;N)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="688"/>
         <source>Space between colu&amp;mns</source>
-        <translation type="unfinished"></translation>
+        <translation>列之间空格(&amp;m)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="910"/>
         <source>Default Font</source>
-        <translation type="unfinished"></translation>
+        <translation>默认字体</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="915"/>
         <source>&amp;Use TreeLine output view font</source>
-        <translation type="unfinished"></translation>
+        <translation>使用TreeLine输出视图字体（&amp;U)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="920"/>
         <source>Select Font</source>
-        <translation type="unfinished"></translation>
+        <translation>选择字体</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="926"/>
         <source>&amp;Font</source>
-        <translation type="unfinished"></translation>
+        <translation>字体(&amp;F)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="942"/>
         <source>Font st&amp;yle</source>
-        <translation type="unfinished"></translation>
+        <translation>字体样式(&amp;y)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="955"/>
         <source>Si&amp;ze</source>
-        <translation type="unfinished"></translation>
+        <translation>尺寸(&amp;z)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="972"/>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>示例</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="978"/>
         <source>AaBbCcDdEeFfGg...TtUuVvWvXxYyZz</source>
-        <translation type="unfinished"></translation>
+        <translation>AaBbCcDdEeFfGg...TtUuVvWvXxYyZz</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1126"/>
         <source>&amp;Header Left</source>
-        <translation type="unfinished"></translation>
+        <translation>页眉居左(&amp;H)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1126"/>
         <source>Header C&amp;enter</source>
-        <translation type="unfinished"></translation>
+        <translation>页眉居中(&amp;e)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1126"/>
         <source>Header &amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>页眉居右(&amp;R)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1127"/>
         <source>Footer &amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>页脚居左(&amp;L)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1127"/>
         <source>Footer Ce&amp;nter</source>
-        <translation type="unfinished"></translation>
+        <translation>页脚居中(&amp;n)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1127"/>
         <source>Footer Righ&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>页脚居右(&amp;t)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1144"/>
         <source>Fiel&amp;ds</source>
-        <translation type="unfinished"></translation>
+        <translation>字段(&amp;d)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1149"/>
         <source>Field For&amp;mat</source>
-        <translation type="unfinished"></translation>
+        <translation>字段格式(&amp;m)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1165"/>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>页眉和页脚</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1346"/>
         <source>Field Format for &quot;{0}&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{0}&quot;的字段格式</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1350"/>
         <source>Output &amp;Format</source>
-        <translation type="unfinished"></translation>
+        <translation>输出格式(&amp;F)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1355"/>
         <source>Format &amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>格式帮助(&amp;H)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1359"/>
         <source>Extra Text</source>
-        <translation type="unfinished"></translation>
+        <translation>额外文字</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1364"/>
         <source>&amp;Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>前缀(&amp;P)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1370"/>
         <source>&amp;Suffix</source>
-        <translation type="unfinished"></translation>
+        <translation>后缀(&amp;S)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="379"/>
         <source>Error:  Page size or margins are invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：页面大小或边距无效</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="400"/>
         <source>TreeLine PDF Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine PDF 打印机</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="455"/>
         <source>Select &amp;Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>选择打印机(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -3471,78 +3481,79 @@ Make sure aspell, ispell or hunspell is installed</source>
     <message>
         <location filename="spellcheck.py" line="257"/>
         <source>TreeLine Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine拼写检查</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="258"/>
         <source>Finished spell checking</source>
-        <translation type="unfinished"></translation>
+        <translation>完成拼写检查</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="310"/>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>拼写检查</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="322"/>
         <source>Not in Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>不在字典中</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="325"/>
         <source>Word:</source>
-        <translation type="unfinished"></translation>
+        <translation>词:</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="331"/>
         <source>Context:</source>
-        <translation type="unfinished"></translation>
+        <translation>上下文:</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="337"/>
         <source>Suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>建议</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="346"/>
         <source>Ignor&amp;e</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略(&amp;e)</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="349"/>
         <source>&amp;Ignore All</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略全部(&amp;I)</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="353"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="356"/>
         <source>Add &amp;Lowercase</source>
-        <translation type="unfinished"></translation>
+        <translation>添加小写(&amp;L)</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="360"/>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>替换(&amp;R)</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="363"/>
         <source>Re&amp;place All</source>
-        <translation type="unfinished"></translation>
+        <translation>替换全部(&amp;p)</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="367"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <location filename="spellcheck.py" line="245"/>
         <source>Finished checking the branch
 Continue from the top?</source>
-        <translation type="unfinished"></translation>
+        <translation>完成检查分支
+从顶部继续？</translation>
     </message>
 </context>
 <context>
@@ -4295,48 +4306,49 @@ Skipped bad child references in the following nodes:</source>
     <message>
         <location filename="treemaincontrol.py" line="101"/>
         <source>Warning:  Could not create local socket</source>
-        <translation type="unfinished"></translation>
+        <translation>警告：无法创建本地套接字</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="125"/>
         <source>Error - could not write config file to {}</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 - 无法将配置文件写入{}</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="272"/>
         <source>Error - could not read file {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 - 无法读取文件{0}</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="401"/>
         <source>Backup file &quot;{}&quot; exists.
 A previous session may have crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>备份文件“{}”存在。
+之前的会话可能已经崩溃</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="404"/>
         <source>&amp;Restore Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复备份(&amp;R)</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="406"/>
         <source>&amp;Delete Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>删除备份(&amp;D)</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="408"/>
         <source>&amp;Cancel File Open</source>
-        <translation type="unfinished"></translation>
+        <translation>取消文件打开(&amp;C)</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="421"/>
         <source>Error - could not rename &quot;{0}&quot; to &quot;{1}&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 - 无法将“{0}”重命名为“{1}”</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="435"/>
         <source>Error - could not remove backup file {}</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 - 无法删除备份文件{}</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="569"/>
@@ -4471,187 +4483,187 @@ A previous session may have crashed</source>
     <message>
         <location filename="treemaincontrol.py" line="632"/>
         <source>Replace text strings in node data</source>
-        <translation type="unfinished"></translation>
+        <translation>替换节点数据中的文本字符串</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="637"/>
         <source>&amp;Text Filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>文本过滤器(&amp;T)...</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="638"/>
         <source>Filter nodes to only show text matches</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤节点仅显示匹配文本</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="643"/>
         <source>C&amp;onditional Filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>条件过滤器(&amp;o)...</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="645"/>
         <source>Use field conditions to filter nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>使用字段条件过滤节点</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="651"/>
         <source>&amp;General Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>常规选项(&amp;G)...</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="652"/>
         <source>Set user preferences for all files</source>
-        <translation type="unfinished"></translation>
+        <translation>设置所有文件的用户首选项</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="656"/>
         <source>Set &amp;Keyboard Shortcuts...</source>
-        <translation type="unfinished"></translation>
+        <translation>设置键盘快捷键(&amp;K)...</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="657"/>
         <source>Customize keyboard commands</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义键盘命令</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="661"/>
         <source>C&amp;ustomize Toolbars...</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义工具栏(&amp;u)...</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="662"/>
         <source>Customize toolbar buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义工具栏按钮</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="666"/>
         <source>Customize Fo&amp;nts...</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义字体(&amp;n)...</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="667"/>
         <source>Customize fonts in various views</source>
-        <translation type="unfinished"></translation>
+        <translation>在各种视图中自定义字体</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="671"/>
         <source>&amp;Basic Usage...</source>
-        <translation type="unfinished"></translation>
+        <translation>基本用法(&amp;B)...</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="672"/>
         <source>Display basic usage instructions</source>
-        <translation type="unfinished"></translation>
+        <translation>显示基本使用说明</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="676"/>
         <source>&amp;Full Documentation...</source>
-        <translation type="unfinished"></translation>
+        <translation>完整文档(&amp;F)...</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="677"/>
         <source>Open a TreeLine file with full documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>使用完整文档打开TreeLine文件</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="692"/>
         <source>&amp;About TreeLine...</source>
-        <translation type="unfinished"></translation>
+        <translation>关于TreeLine(&amp;A)...</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="693"/>
         <source>Display version info about this program</source>
-        <translation type="unfinished"></translation>
+        <translation>显示有关此程序的版本信息</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="713"/>
         <source>&amp;Select Template</source>
-        <translation type="unfinished"></translation>
+        <translation>选择模板(&amp;S)</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="733"/>
         <source>TreeLine - Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine - 打开文件</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="745"/>
         <source>Open Sample File</source>
-        <translation type="unfinished"></translation>
+        <translation>打开一个示例文件</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="746"/>
         <source>&amp;Select Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>选择示例文件(&amp;S)</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="865"/>
         <source>Conditional Find</source>
-        <translation type="unfinished"></translation>
+        <translation>条件查找</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="921"/>
         <source>Conditional Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>条件过滤器</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="939"/>
         <source>General Options</source>
-        <translation type="unfinished"></translation>
+        <translation>常规选项</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="1028"/>
         <source>Error - basic help file not found</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 - 找不到基本帮助文件</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="1031"/>
         <source>TreeLine Basic Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine基本用法</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="1041"/>
         <source>Error - documentation file not found</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 - 找不到文档文件</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="324"/>
         <source>Error - invalid TreeLine file {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>错误 - 无效的TreeLine文件{0}</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="1055"/>
         <source>TreeLine version {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>TreeLine版本{0}</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="1056"/>
         <source>written by {0}</source>
-        <translation type="unfinished"></translation>
+        <translation>由{0}编写</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="1057"/>
         <source>Library versions:</source>
-        <translation type="unfinished"></translation>
+        <translation>库版本:</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="124"/>
         <source>missing directory</source>
-        <translation type="unfinished"></translation>
+        <translation>缺少目录</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="601"/>
         <source>Show C&amp;onfiguration Structure...</source>
-        <translation type="unfinished"></translation>
+        <translation>显示配置结构(&amp;o)...</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="603"/>
         <source>Show read-only visualization of type structure</source>
-        <translation type="unfinished"></translation>
+        <translation>显示只读的类型结构可视化</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="959"/>
         <source>Application must be restarted for color theme changes to take effect</source>
-        <translation type="unfinished"></translation>
+        <translation>必须重新启动应用程序才能使颜色主题更改生效</translation>
     </message>
 </context>
 <context>
