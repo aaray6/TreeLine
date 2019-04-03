@@ -31,7 +31,7 @@
     <message>
         <location filename="conditional.py" line="32"/>
         <source>and</source>
-        <translation>和</translation>
+        <translation>与</translation>
     </message>
     <message>
         <location filename="conditional.py" line="33"/>
@@ -229,7 +229,7 @@
     <message>
         <location filename="configdialog.py" line="346"/>
         <source>Enter new type name:</source>
-        <translation>输入新的类型名称:</translation>
+        <translation>输入新类型的名字:</translation>
     </message>
     <message>
         <location filename="configdialog.py" line="346"/>
@@ -970,7 +970,7 @@
     <message>
         <location filename="configdialog.py" line="1009"/>
         <source>Evaluate &amp;HTML tags</source>
-        <translation>执行&amp;HTML标记</translation>
+        <translation>评估&amp;HTML标记</translation>
     </message>
     <message>
         <location filename="configdialog.py" line="516"/>
@@ -1342,42 +1342,42 @@ Continue with absolute path?</source>
     <message>
         <location filename="exports.py" line="1662"/>
         <source>Live tree view, linked to TreeLine file (for web server)</source>
-        <translation>实时树视图，链接到TreeLine文件（用于Web服务器）</translation>
+        <translation>实时树视图，链接到TreeLine文件(用于Web服务器)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1664"/>
         <source>Live tree view, single file (embedded data)</source>
-        <translation>实时树视图，单个文件（嵌入数据）</translation>
+        <translation>实时树视图，单个文件(嵌入数据)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1668"/>
         <source>&amp;Comma delimited (CSV) table of descendants (level numbers)</source>
-        <translation>逗号分隔（CSV）后代表格（级别编号）(&amp;C)</translation>
+        <translation>逗号分隔(CSV)后代表格(级别编号)(&amp;C)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1670"/>
         <source>Comma &amp;delimited (CSV) table of children (single level)</source>
-        <translation>逗号分隔（CSV）子表格（单级）(&amp;d)</translation>
+        <translation>逗号分隔(CSV)子表格(单级)(&amp;d)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1672"/>
         <source>Tab &amp;delimited table of children (&amp;single level)</source>
-        <translation>制表符分隔（CSV）子表格（单级）(&amp;d)</translation>
+        <translation>制表符分隔(CSV)子表格(单级)(&amp;d)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1673"/>
         <source>&amp;Old TreeLine (2.0.x)</source>
-        <translation>老TreeLine （2.0.x）（&amp;O）</translation>
+        <translation>老版本TreeLine (2.0.x)(&amp;O)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1674"/>
         <source>&amp;TreeLine Subtree</source>
-        <translation>TreeLine子树（&amp;T）</translation>
+        <translation>TreeLine子树(&amp;T)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1833"/>
         <source>&amp;Include root nodes</source>
-        <translation>包括跟节点(&amp;I)</translation>
+        <translation>包括根节点(&amp;I)</translation>
     </message>
     <message>
         <location filename="exports.py" line="1889"/>
@@ -1495,7 +1495,7 @@ Continue with absolute path?</source>
     <message>
         <location filename="fieldformat.py" line="432"/>
         <source>Digit or Space (external)	&lt;space&gt;</source>
-        <translation>数字或空格（外部）	&lt;space&gt;</translation>
+        <translation>数字或空格(外部)	&lt;space&gt;</translation>
     </message>
     <message>
         <location filename="fieldformat.py" line="434"/>
@@ -1957,7 +1957,7 @@ Continue with absolute path?</source>
     <message>
         <location filename="imports.py" line="54"/>
         <source>Treepad &amp;file (text nodes only)</source>
-        <translation>Treepad和文件(仅限文本节点)(&amp;f)</translation>
+        <translation>Treepad文件(仅限文本节点)(&amp;f)</translation>
     </message>
     <message>
         <location filename="imports.py" line="55"/>
@@ -2071,12 +2071,12 @@ Use an import filter?</source>
     <message>
         <location filename="imports.py" line="40"/>
         <source>Co&amp;mma delimited (CSV) text table with level column &amp;&amp; header row</source>
-        <translation>带有级别列 &amp;&amp; 标题行的逗号分隔（CSV）文本表格(&amp;m)</translation>
+        <translation>带有级别列 &amp;&amp; 标题行的逗号分隔(CSV)文本表格(&amp;m)</translation>
     </message>
     <message>
         <location filename="imports.py" line="41"/>
         <source>Comma delimited (CSV) text table &amp;with header row</source>
-        <translation>带有标题行的逗号分隔（CSV）文本表格(&amp;w)</translation>
+        <translation>带有标题行的逗号分隔(CSV)文本表格(&amp;w)</translation>
     </message>
     <message>
         <location filename="imports.py" line="52"/>
@@ -2086,7 +2086,7 @@ Use an import filter?</source>
     <message>
         <location filename="imports.py" line="53"/>
         <source>Old Tree&amp;Line File (1.x or 2.x)</source>
-        <translation>老Tree&amp;Line文件(1.x或2.x)</translation>
+        <translation>老版本Tree&amp;Line文件(1.x或2.x)</translation>
     </message>
     <message>
         <location filename="imports.py" line="202"/>
@@ -2157,7 +2157,7 @@ Use an import filter?</source>
     <message>
         <location filename="miscdialogs.py" line="197"/>
         <source>&amp;Use file compression</source>
-        <translation>使用问价压缩(&amp;U)</translation>
+        <translation>使用文件压缩(&amp;U)</translation>
     </message>
     <message>
         <location filename="miscdialogs.py" line="200"/>
@@ -2174,7 +2174,7 @@ Use an import filter?</source>
         <source>Language code or
 dictionary (optional)</source>
         <translation>语言代码或
-字典（可选）</translation>
+字典(可选)</translation>
     </message>
     <message>
         <location filename="miscdialogs.py" line="213"/>
@@ -2324,7 +2324,7 @@ dictionary (optional)</source>
     <message>
         <location filename="miscdialogs.py" line="734"/>
         <source>Replacement &amp;Text</source>
-        <translation>替换文字（&amp;T）</translation>
+        <translation>替换文字(&amp;T)</translation>
     </message>
     <message>
         <location filename="miscdialogs.py" line="744"/>
@@ -2429,7 +2429,7 @@ dictionary (optional)</source>
     <message>
         <location filename="miscdialogs.py" line="992"/>
         <source>&amp;Predefined Key Fields</source>
-        <translation>预定义的关键字段（&amp;P）</translation>
+        <translation>预定义的关键字段(&amp;P)</translation>
     </message>
     <message>
         <location filename="miscdialogs.py" line="995"/>
@@ -2474,7 +2474,7 @@ dictionary (optional)</source>
     <message>
         <location filename="miscdialogs.py" line="1128"/>
         <source>Root Node</source>
-        <translation>跟节点</translation>
+        <translation>根节点</translation>
     </message>
     <message>
         <location filename="miscdialogs.py" line="1131"/>
@@ -2669,8 +2669,7 @@ dictionary (optional)</source>
     <message>
         <location filename="miscdialogs.py" line="1876"/>
         <source>Tree View Font</source>
-        <translation>14/5000
-树视图字体</translation>
+        <translation>树视图字体</translation>
     </message>
     <message>
         <location filename="miscdialogs.py" line="1880"/>
@@ -2867,7 +2866,7 @@ an explanation of the circumstances.
         <source>Minutes between saves
 (set to 0 to disable)</source>
         <translation>保存之间的分钟数
-（设为0表示禁用）</translation>
+(设为0表示禁用)</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="80"/>
@@ -2913,7 +2912,7 @@ of week</source>
         <source>Child indent offset
 (in font height units) </source>
         <translation>子缩进偏移
-（字体高度单位）</translation>
+(字体高度单位)</translation>
     </message>
     <message>
         <location filename="optiondefaults.py" line="35"/>
@@ -3153,7 +3152,7 @@ Save adjustments?</source>
     <message>
         <location filename="printdialogs.py" line="444"/>
         <source>&amp;Include root node</source>
-        <translation>包括跟节点(&amp;I)</translation>
+        <translation>包括根节点(&amp;I)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="447"/>
@@ -3185,7 +3184,7 @@ Save adjustments?</source>
         <source>Indent Offse&amp;t
 (line height units)</source>
         <translation>缩进偏移量(&amp;t)
-（线高单位）</translation>
+(线高单位)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="537"/>
@@ -3195,12 +3194,12 @@ Save adjustments?</source>
     <message>
         <location filename="printdialogs.py" line="538"/>
         <source>Legal (8.5 x 14 in.)</source>
-        <translation>Legal (8.5 x 14 in.)</translation>
+        <translation>法律文书 (8.5 x 14 in.)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="539"/>
         <source>Tabloid (11 x 17 in.)</source>
-        <translation>Tabloid (11 x 17 in.)</translation>
+        <translation>小型报纸 (11 x 17 in.)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="540"/>
@@ -3330,7 +3329,7 @@ Save adjustments?</source>
     <message>
         <location filename="printdialogs.py" line="915"/>
         <source>&amp;Use TreeLine output view font</source>
-        <translation>使用TreeLine输出视图字体（&amp;U)</translation>
+        <translation>使用TreeLine输出视图字体(&amp;U)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="920"/>
@@ -3365,32 +3364,32 @@ Save adjustments?</source>
     <message>
         <location filename="printdialogs.py" line="1126"/>
         <source>&amp;Header Left</source>
-        <translation>页眉居左(&amp;H)</translation>
+        <translation>页眉左(&amp;H)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1126"/>
         <source>Header C&amp;enter</source>
-        <translation>页眉居中(&amp;e)</translation>
+        <translation>页眉中(&amp;e)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1126"/>
         <source>Header &amp;Right</source>
-        <translation>页眉居右(&amp;R)</translation>
+        <translation>页眉右(&amp;R)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1127"/>
         <source>Footer &amp;Left</source>
-        <translation>页脚居左(&amp;L)</translation>
+        <translation>页脚左(&amp;L)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1127"/>
         <source>Footer Ce&amp;nter</source>
-        <translation>页脚居中(&amp;n)</translation>
+        <translation>页脚中(&amp;n)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1127"/>
         <source>Footer Righ&amp;t</source>
-        <translation>页脚居右(&amp;t)</translation>
+        <translation>页脚右(&amp;t)</translation>
     </message>
     <message>
         <location filename="printdialogs.py" line="1144"/>
@@ -3695,7 +3694,7 @@ Continue from the top?</source>
     <message>
         <location filename="treeformats.py" line="51"/>
         <source>EvalHtml</source>
-        <translation>执行Html</translation>
+        <translation>评估Html</translation>
     </message>
 </context>
 <context>
@@ -4028,7 +4027,7 @@ Continue from the top?</source>
     <message>
         <location filename="treelocalcontrol.py" line="595"/>
         <source>&amp;Unindent Node</source>
-        <translation>取消缩进节点（&amp;U）</translation>
+        <translation>取消缩进节点(&amp;U)</translation>
     </message>
     <message>
         <location filename="treelocalcontrol.py" line="596"/>
@@ -4078,7 +4077,7 @@ Continue from the top?</source>
     <message>
         <location filename="treelocalcontrol.py" line="621"/>
         <source>&amp;Set Node Type</source>
-        <translation>设置节点类型（&amp;S）</translation>
+        <translation>设置节点类型(&amp;S)</translation>
     </message>
     <message>
         <location filename="treelocalcontrol.py" line="625"/>
@@ -4093,7 +4092,7 @@ Continue from the top?</source>
     <message>
         <location filename="treelocalcontrol.py" line="632"/>
         <source>Copy Types from &amp;File...</source>
-        <translation>从文件复制类型（&amp;F）...</translation>
+        <translation>从文件复制类型(&amp;F)...</translation>
     </message>
     <message>
         <location filename="treelocalcontrol.py" line="633"/>
@@ -4128,7 +4127,7 @@ Continue from the top?</source>
     <message>
         <location filename="treelocalcontrol.py" line="727"/>
         <source>&amp;New Window</source>
-        <translation>新建窗口（&amp;N）</translation>
+        <translation>新建窗口(&amp;N)</translation>
     </message>
     <message>
         <location filename="treelocalcontrol.py" line="728"/>
@@ -4455,7 +4454,7 @@ A previous session may have crashed</source>
     <message>
         <location filename="treemaincontrol.py" line="613"/>
         <source>Update &amp;Numbering...</source>
-        <translation>更新数值型(&amp;N)...</translation>
+        <translation>更新编号(&amp;N)...</translation>
     </message>
     <message>
         <location filename="treemaincontrol.py" line="614"/>
@@ -4867,7 +4866,7 @@ A previous session may have crashed</source>
     <message>
         <location filename="treewindow.py" line="602"/>
         <source>&amp;View</source>
-        <translation>视图（&amp;V)</translation>
+        <translation>视图(&amp;V)</translation>
     </message>
     <message>
         <location filename="treewindow.py" line="617"/>
